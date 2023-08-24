@@ -16,7 +16,7 @@
           <a-video
             width="16"
             height="9"
-            src="URL_TO_RAW_VIDEO_FILE"
+            src="JPL-20221111-EARTHf-0001-Earth_Water_Budget_Animation.mp4"
             autoplay="false"
             loop="false"
           ></a-video>
